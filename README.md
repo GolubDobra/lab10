@@ -224,12 +224,12 @@ EOF
 ```
 $ wget https://github.com/${GITHUB_USERNAME}/hunter/archive/v0.19.137.1.tar.gz    # Скачиваем пакет
 
---2018-01-07 04:29:58--  https://github.com/lightman1998/hunter/archive/v0.19.137.1.tar.gz
+--2018-01-07 04:29:58--  https://github.com/GolubDobra/hunter/archive/v0.19.137.1.tar.gz
 Resolving github.com (github.com)... 192.30.253.113, 192.30.253.112
 Connecting to github.com (github.com)|192.30.253.113|:443... connected.
 HTTP request sent, awaiting response... 302 Found
-Location: https://codeload.github.com/lightman1998/hunter/tar.gz/v0.19.137.1 [following]
---2018-01-07 04:29:59--  https://codeload.github.com/lightman1998/hunter/tar.gz/v0.19.137.1
+Location: https://codeload.github.com/GolubDobra/hunter/tar.gz/v0.19.137.1 [following]
+--2018-01-07 04:29:59--  https://codeload.github.com/GolubDobra/hunter/tar.gz/v0.19.137.1
 Resolving codeload.github.com (codeload.github.com)... 192.30.253.120, 192.30.253.121
 Connecting to codeload.github.com (codeload.github.com)|192.30.253.120|:443... connected.
 HTTP request sent, awaiting response... 200 OK
