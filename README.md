@@ -222,7 +222,8 @@ EOF
 ```
 Загрузка пакета
 ```
-$ wget https://github.com/${GITHUB_USERNAME}/hunter/archive/v0.19.137.1.tar.gz # Скачиваем пакет
+$ wget https://github.com/${GITHUB_USERNAME}/hunter/archive/v0.19.137.1.tar.gz    # Скачиваем пакет
+
 --2018-01-07 04:29:58--  https://github.com/lightman1998/hunter/archive/v0.19.137.1.tar.gz
 Resolving github.com (github.com)... 192.30.253.113, 192.30.253.112
 Connecting to github.com (github.com)|192.30.253.113|:443... connected.
